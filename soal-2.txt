@@ -1,0 +1,8 @@
+Perintah perintah yang sudah dipelajari pada hari ini adalah
+- mkdir digunakan untuk membuat sebuah direktori
+- cd .. digunakan untuk turun satu direktori dari direktori sebelumnya
+- cd digunakan untuk berpindah ke direktori yang akan dituju
+- echo digunakan untuk menampilkan isi ke layar
+- dir digunakan untuk menampilkan isi dari direktori tersebut
+- del digunakan untuk menghapus sebuah file
+- rmdir digunakan untuk menghapus sebuah direktori kosong

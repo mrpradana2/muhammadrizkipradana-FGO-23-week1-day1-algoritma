@@ -1,0 +1,10 @@
+Perbedaan antara GUI dan CLI adalah:
+- GUI graphical user interface merupakan sebuah tampilan yang digunakan untuk menampikan sebuah perintah perintah dalam bentuk icon atau gambar yang ditampilkan kepada pengguna.
+- CLI comment line interface merupakan sebuah tampilan dalam bentuk terminal yang digunakan untuk menerima perintah dari pengguna malalui baris-baris kode.
+
+Kelebihan dan kekurangan dari GUI: 
+- Kekurangannya terlalu banyak memakan resource sehingga panggunaanya kurang optimal karena GUI menampilkan gambar atau icon kepada pengguna
+- Kelebihannya banyak digunakan banyak pengguna baik yang masih awam maupun yang sudah professional, karena tampilannya yang user friendly.
+Kelebihan dan kekurangan dari CLI:
+- Kekurangannya yaitu hanya bisa digunakan oleh orang yang sudah mengetahui perintah - perintah pada CLI, orang awam lebih ketika menggunakannya.
+- Kelebihannya karena tidak menampilkan sebuah gambar atau icon kepada pengguna, maka penggunaan resourcenya sedikit sehingga sangan cocok untuk optimasi.
